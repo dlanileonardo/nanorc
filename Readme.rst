@@ -58,3 +58,9 @@ my config file includes::
     ## Lua
     include "~/.nano/lua.nanorc"
 
+
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/dlanileonardo/nanorc/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
+
